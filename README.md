@@ -59,7 +59,7 @@ platform, 1 game at Steam platform, 3 games at my websites.
   
 
 
-<h3 align="left">Some of my projects and homeworks:</h3>
+<h3 align="left">Some of my projects:</h3>
 
 [Eveslan](https://store.steampowered.com/app/711630/Eveslan/)
 
