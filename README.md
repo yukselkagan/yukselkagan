@@ -136,54 +136,6 @@ I publish it on my website.
 It made with JavaScript.
 
 
-[Patika.dev CSS Homework-3](https://github.com/yukselkagan/css-odev3)
-
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/homework-css3.png" alt="image" />
-
-It is a CSS homework made when I was bootcamp student at Patika.
-Homework: Google front-end clone with CSS.
-
-
-[Patika.dev Bootstrap Homework-2](https://github.com/yukselkagan/bootstrap-odev2)
-
-It is a Bootstrap homework made when I was bootcamp student at Patika.
-Homework: Given a broken Instagram clone. Fix broken clone with Bootstrap.
-
-[Patika.dev Bootstrap Homework-3](https://github.com/yukselkagan/bootstrap-odev3)
-
-
-Homework: Given a broken Linkedin clone. Fix broken clone with Bootstrap.
-
-
-[Patika.dev JavaScript Homework-2](https://github.com/yukselkagan/javascript-odev2)
-
-
-Homework: To-do List with JavaScript
-
-
-[Patika.dev JavaScript Homework-3](https://github.com/yukselkagan/javascript-odev3)
-
-
-Homework: Make interactive given menu page with JavaScript.
-
-[Patika.dev React Homework-2](https://github.com/yukselkagan/react-odev2)
-
-
-Homework: Make to-do App with React.
-
-[Patika.dev React Homework-3](https://github.com/yukselkagan/react-odev3)
-
-
-Homework: Make weather forecast frontend that get data from API.
-
-
-[Patika.dev React Homework-4](https://github.com/yukselkagan/toys-fast-buttons)
-
-It is a React homework made when I was bootcamp student at Patika.
-Homework: Make a button component and share it on npmjs.
-
-
-
 
 
   
