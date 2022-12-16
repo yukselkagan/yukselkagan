@@ -61,6 +61,13 @@ platform, 1 game at Steam platform, 3 games at my websites.
 
 <h3 align="left">Some of my projects:</h3>
 
+[Friendstagram](https://github.com/yukselkagan/friendstagram)
+
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/friendstagram1.png" alt="friendstagram" />
+
+Friendstagram is social network application. 
+Application have .Net 5 Web Api at back-end side, Angular 13 at front-end side. Using Mssql as database, using Entity Framework for interact with database.
+
 [Eveslan](https://store.steampowered.com/app/711630/Eveslan/)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/gifs/eveslangif1.gif" alt="eveslan" />
@@ -71,7 +78,7 @@ It made with Unity Engine, C# language.
 
 [Plansor](https://play.google.com/store/apps/details?id=com.kolaygir.plansor)
 
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/plansor1.png" alt="image" />
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/plansor1.png" alt="plansor" />
 
 Video Link: https://www.youtube.com/watch?v=EUyb7bs_BMo
 
