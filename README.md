@@ -5,7 +5,7 @@ platform, 1 game at Steam platform, 3 games at my websites.
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/yüksel-kağan-onarır-2bba22216" ><img align="center" src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/yukselkagan" ><img align="center" src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 
