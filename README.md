@@ -35,24 +35,18 @@ platform, 1 game at Steam platform, 3 games at my websites.
 
 <br>
 
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/mssql.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/mysql.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/postgresql.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/mssql.svg" alt="mssql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/oracle.svg" alt="oracle" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/redis.svg" alt="redis" width="40" height="40"/>
+
   
-<br>
-
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/php.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/laravel.svg" alt="laravel" width="40" height="40"/>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/unity.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/blender.svg" alt="blender" width="40" height="40"/>
-
- <br> 
-  
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/filezilla.svg" alt="filezilla" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/icons/postman.svg" alt="postman" width="40" height="40"/>
 
 <br>
   
