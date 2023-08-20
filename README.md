@@ -1,6 +1,4 @@
-I interest in web development and game development. I use .Net technologies. Experienced as full stack developer at web development. 
-I use Unity game engine for making games, I worked on different kind of games for years and publish good ones. I have 2 games at Google Play
-platform, 1 game at Steam platform, 3 games at my websites.
+Software is the magic of the real world.
 
 
 <h3 align="left">Contact:</h3>
@@ -68,6 +66,13 @@ Application have .Net 5 Web Api at back-end side, Angular 13 at front-end side. 
 
 Eveslan is third person swordplay game. I publish it on Steam platform at 2017.
 It made with Unity Engine, C# language.
+
+
+Warrior Tale
+
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/warrior-tale.png" alt="warrior tale" />
+
+Warrior Tale is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the Warrior Tale, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
 
 
 [Plansor](https://play.google.com/store/apps/details?id=com.kolaygir.plansor)
