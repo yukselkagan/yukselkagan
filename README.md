@@ -69,7 +69,7 @@ It made with Unity Engine, C# language.
 
 Nilka
 
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/game5.png" alt="warrior tale" />
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/game5.png" width="600px" alt="warrior tale" />
 
 Nilka is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the game, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
 
