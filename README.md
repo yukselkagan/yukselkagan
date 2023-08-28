@@ -57,23 +57,21 @@ Software is the magic of the real world.
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/friendstagram1.png" alt="friendstagram" />
 
-Friendstagram is social network application. 
+Friendstagram is a social network application. 
 Application have .Net 5 Web Api at back-end side, Angular 13 at front-end side. Using Mssql as database, using Entity Framework for interact with database.
 
 [Eveslan](https://store.steampowered.com/app/711630/Eveslan/)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/gifs/eveslangif1.gif" alt="eveslan" />
 
-Eveslan is third person swordplay game. I publish it on Steam platform at 2017.
+Eveslan is a third person swordplay game. I publish it on Steam platform at 2017.
 It made with Unity Engine, C# language.
 
+Nilka
 
-Warrior Tale
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/game5.png" alt="warrior tale" />
 
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/warrior-tale.png" alt="warrior tale" />
-
-Warrior Tale is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the Warrior Tale, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
-
+Nilka is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the game, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
 
 [Plansor](https://play.google.com/store/apps/details?id=com.kolaygir.plansor)
 
@@ -83,18 +81,18 @@ Video Link: https://www.youtube.com/watch?v=EUyb7bs_BMo
 
 Plansor is a life simulator game of an alien planet. It has different features. 
 Character gain money with working. He can buy stuff for his home and his workshop.
-Can move and rotate this stuffs and can paint them. Character have a workshop he can build
+Can move and rotate these stuffs and can paint them. The character has a workshop where he can build
 some resource generators here and gather resources and use these resources for make his spaceship.
 I publish it on Google Play platform at 2019.
-It made with Unity Engine, C# language.
+It is made with Unity Engine, C# language.
 
 
 [Tradesman's Adventures](https://www.oyupa.com/)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/gifs/manavgif1.gif" alt="manav" />
 
-Tradesman's Adventures is TPS game. Tradesman have 4 type weapons and he use them for defeat his enemies the lemons. 
-I publish it on my website at 2019.
+Tradesman's Adventures is a TPS game. Tradesman has 4 type weapons and he use them for defeat his enemies the lemons. 
+I publish it on my website in 2019.
 It made with Unity Engine, C# language.
 
 
@@ -104,30 +102,30 @@ It made with Unity Engine, C# language.
 
 Video Link: https://www.youtube.com/watch?v=2WbkynSXxOE
 
-Manav is greengroces simulator game. Manav gather producst from his garden and go to town for find customers.
-I publish it on Google Play platform at 2019.
-It made with Unity Engine, C# language.
+Manav is a greengrocer simulator game. Manav gather products from his garden and go to town for find customers.
+I publish it on Google Play platform in 2019.
+It is made with Unity Engine, C# language.
 
 [Gulfar](https://gulfaronline.com/)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/gulfar1.png" alt="image" />
 
-Gulfar is browser game. Players start with a character and roleplay him. 
+Gulfar is a browser game. Players start with a character and roleplay him. 
 This character can be human, orc, elf, dwarf, vampire, werewolf.
 There are a lot of works for characters. 
 Characters can be hunter, fisherman, woodsman, farmer, artisan,
 miner, builder, gatherer, baker, tailor, smith, merchant, soldier, wizard, doctor.
-Players can sell their products to other players at market and buy theirs.
-Can travel to another cities. Can build army for conquer cities and rule them. 
-Game have family system. If a player have child in some age range, 
-and a new player start to game, new player can be start as child of other player.
-Characters have family tree.
-If there is no suitable family, players can create his family tree.
-All characters have a limited lifetime. When they reach old ages they can die.
-Character also may die from illness and battles. All characters in game are mortal.
-Character lifetime is about 3 months. Players roleplay their characters and improve them.
+Players can sell their products to other players at the market and buy theirs.
+Can travel to another cities. Can build an army to conquer cities and rule them. 
+Game has family system. If a player has a child in some age range, 
+and a new player starts to game, new player can be start as child of other player.
+Characters have a family tree.
+If there is no suitable family, players can create their family tree.
+All characters have a limited lifetime. When they reach old age, they can die.
+Characters also may die from illness and battles. All characters in the game are mortal.
+The character's lifetime is about 3 months. Players roleplay their characters and improve them.
 I publish it on my website.
-It made with PHP.
+It is made with PHP.
 
 
 [Gece](https://www.oyupa.com/content/gece/gece.html)
@@ -136,10 +134,10 @@ It made with PHP.
 
 Gece is HTML5 game. Have 2 characters for players. 
 2 Players can play from 1 keyboard.
-Player 1 have A,S,D buttons for action and have arrow keys for move, 
-Player 2 have J,K,L buttons for action and have keyboard num buttons for move.
-I publish it on my website.
-It made with JavaScript.
+Player 1 has A, S,D buttons for action and have arrow keys for move, 
+Player 2 has J, K, L buttons for action and have keyboard num buttons for move.
+I published it on my website.
+It was made with JavaScript.
 
 
 
