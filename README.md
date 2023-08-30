@@ -67,12 +67,7 @@ Application have .Net 5 Web Api at back-end side, Angular 13 at front-end side. 
 Eveslan is a third person swordplay game. I publish it on Steam platform at 2017.
 It made with Unity Engine, C# language.
 
-Nilka
-
-<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/game5.png" width="600px" alt="warrior tale" />
-
-Nilka is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the game, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
-
+ 
 [Plansor](https://play.google.com/store/apps/details?id=com.kolaygir.plansor)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/plansor1.png" alt="plansor" />
