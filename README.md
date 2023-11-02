@@ -60,6 +60,15 @@ Software is the magic of the real world.
 Friendstagram is a social network application. 
 Application have .Net 5 Web Api at back-end side, Angular 13 at front-end side. Using Mssql as database, using Entity Framework for interact with database.
 
+
+[Warrior Tale](https://warriortale.com/)
+
+<img src="https://raw.githubusercontent.com/yukselkagan/images/main/common/game5.png" alt="warrior tale" />
+
+Warrior Tale is an online browser game. Have .Net server and Mongo DB database. React client for web and React Native client for mobile. At the Warrior Tale, every player plays as a warrior, they do daily activities and skill training. Strong warriors have a better chance in tribe wars. Warriors can claim to be warlords at scheduled times so they can create their warband. Better warbands mean better rewards. 
+
+
+
 [Eveslan](https://store.steampowered.com/app/711630/Eveslan/)
 
 <img src="https://raw.githubusercontent.com/yukselkagan/images/main/gifs/eveslangif1.gif" alt="eveslan" />
